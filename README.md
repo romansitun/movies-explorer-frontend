@@ -1,1 +1,1 @@
-# movies-explorer-frontend
+скачать макет можно по ссылке - https://dropmefiles.com/Cf0v5
