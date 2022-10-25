@@ -1,6 +1,6 @@
 import './AboutMe.css';
 import photo from '../../images/my-photo.jpg';
-
+import React  from 'react';
 
 function AboutMe() {
 

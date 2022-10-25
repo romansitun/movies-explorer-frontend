@@ -1,6 +1,6 @@
 import './Portfolio.css';
 import arrow from '../../images/arrow.svg';
-
+import React  from 'react';
 
 function Portfolio() {
 

@@ -1,5 +1,6 @@
 import './Footer.css';
 import { Route } from 'react-router-dom';
+import React  from 'react';
 
 function Footer() {
 
